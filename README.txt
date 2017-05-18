@@ -1,4 +1,8 @@
-Strata by HTML5 UP
+This is my personal website, where I want to document my research and other activities. 
+The website content may be used freely as long as the author is mentioned and cited as such. 
+The template used for the webdesign on this page is Strata by HTML5 UP. 
+For more details, see below:
+
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
