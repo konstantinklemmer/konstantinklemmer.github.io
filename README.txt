@@ -1,5 +1,8 @@
 This is my personal website, where I want to document my research and other activities. 
 The website content may be used freely as long as the author is mentioned and cited as such. 
+
+For my blog, I use the R Markdown library prettydocs by Yixuan Qiu.(http://yixuan.cos.name/prettydoc/)
+
 The template used for the webdesign on this page is Strata by HTML5 UP. 
 For more details, see below:
 
