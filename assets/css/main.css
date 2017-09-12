@@ -10,7 +10,7 @@
 /* Menu Style */
 
 #nav-menu {
-  margin: 50px;
+  margin: 0px;
 }
  
 #nav-menu ul {
@@ -19,16 +19,16 @@
 }
  
 #nav-menu li {
-  height: 32px;
-  float: left;
+  height: 50px;
+  float: right;
   margin-right: 0px;
-  padding: 0 6px;
+  padding: 0 10px;
 }
  
 #nav-menu li a {
   text-decoration: none;
   color: #a2a2a2;
-  font: 2em "Source Sans Pro", Helvetica, sans-serif;
+  font: 1em "Source Sans Pro", Helvetica, sans-serif;
   text-transform: uppercase;
  
   -webkit-transition: all 0.5s ease;
