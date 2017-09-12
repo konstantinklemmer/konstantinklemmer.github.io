@@ -27,8 +27,8 @@
  
 #nav-menu li a {
   text-decoration: none;
-  color: #ccc;
-  font: 30px/1 Helvetica, Verdana, sans-serif;
+  color: #a2a2a2;
+  font: 30px/1 "Source Sans Pro", Helvetica, sans-serif;
   text-transform: uppercase;
  
   -webkit-transition: all 0.5s ease;
