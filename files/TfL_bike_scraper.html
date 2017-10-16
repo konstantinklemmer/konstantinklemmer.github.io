@@ -123,18 +123,18 @@ wp_html &lt;-<span class="st"> </span><span class="kw">scrapeJSSite</span>(wp,<s
 <div id="download-and-read-cycling-data" class="section level1">
 <h1>Download and read cycling data</h1>
 <p>We now use the file link database to download exactly the data we are searching, for instance all cycle trips from 2016. Luckily, TfL names each file according to the period it covers–ending with the observation year. We can thus easily select all files ending on <code>16.csv</code> to download. Obviously, this process might take some time, depending on how many files we select.</p>
-<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">fl15 &lt;-<span class="st"> </span>filelinks <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">filter</span>(<span class="kw">str_detect</span>(filename,<span class="st">&quot;15.csv&quot;</span>)) <span class="co">#Select links from 2016</span>
-fl15 &lt;-<span class="st"> </span>fl15[<span class="dv">1</span><span class="op">:</span><span class="kw">length</span>(fl15<span class="op">$</span>filename),]
-<span class="kw">dir.create</span>(<span class="kw">file.path</span>(<span class="st">&quot;~/Data/bike/&quot;</span>, <span class="st">&quot;2015&quot;</span>)) <span class="co">#Create subdirectory for download</span>
-<span class="kw">setwd</span>(<span class="st">&quot;~/Data/bike/2015&quot;</span>) <span class="co">#Set working directory</span>
-<span class="cf">for</span> (i <span class="cf">in</span> fl15) { <span class="co">#Use for-loop to download all selected files</span>
+<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">fl16 &lt;-<span class="st"> </span>filelinks <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">filter</span>(<span class="kw">str_detect</span>(filename,<span class="st">&quot;16.csv&quot;</span>)) <span class="co">#Select links from 2016</span>
+fl16 &lt;-<span class="st"> </span>fl16[<span class="dv">1</span><span class="op">:</span><span class="kw">length</span>(fl16<span class="op">$</span>filename),]
+<span class="kw">dir.create</span>(<span class="kw">file.path</span>(<span class="st">&quot;~/Data/bike/&quot;</span>, <span class="st">&quot;2016&quot;</span>)) <span class="co">#Create subdirectory for download</span>
+<span class="kw">setwd</span>(<span class="st">&quot;~/Data/bike/2016&quot;</span>) <span class="co">#Set working directory</span>
+<span class="cf">for</span> (i <span class="cf">in</span> fl16) { <span class="co">#Use for-loop to download all selected files</span>
   <span class="kw">download.file</span>(i, <span class="dt">destfile=</span><span class="kw">basename</span>(i),<span class="dt">mode=</span><span class="st">&quot;wb&quot;</span>) <span class="co">#wb mode must be enabled!</span>
 }</code></pre></div>
 <p>We are almost done! In the last step, we read the downloaded files into R using the <code>fread</code> function from the <code>data.table</code> package.</p>
 <div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">setwd</span>(<span class="st">&quot;~/Data&quot;</span>) <span class="co">#Reset working directory</span>
-fns &lt;-<span class="st"> </span><span class="kw">list.files</span>(<span class="st">&quot;bike/2015&quot;</span>) <span class="co">#List names of downloaded files</span>
-<span class="kw">setwd</span>(<span class="st">&quot;~/Data/bike/2015&quot;</span>) <span class="co">#Adjust the temporary working directory</span>
-bt2015 &lt;-<span class="st"> </span><span class="kw">rbind.fill</span>(<span class="kw">lapply</span>(fns, fread, <span class="dt">header=</span><span class="ot">TRUE</span>)) <span class="co">#Read and bind trips in one data frame</span>
+fns &lt;-<span class="st"> </span><span class="kw">list.files</span>(<span class="st">&quot;bike/2016&quot;</span>) <span class="co">#List names of downloaded files</span>
+<span class="kw">setwd</span>(<span class="st">&quot;~/Data/bike/2016&quot;</span>) <span class="co">#Adjust the temporary working directory</span>
+bt2016 &lt;-<span class="st"> </span><span class="kw">rbind.fill</span>(<span class="kw">lapply</span>(fns, fread, <span class="dt">header=</span><span class="ot">TRUE</span>)) <span class="co">#Read and bind trips in one data frame</span>
 <span class="kw">setwd</span>(<span class="st">&quot;~/Data&quot;</span>) <span class="co">#Reset working directory</span></code></pre></div>
 <p>We have now imported all TfL cycle hire trips from 2016, just using a few lines of code. Happy crafting!</p>
 </div>
