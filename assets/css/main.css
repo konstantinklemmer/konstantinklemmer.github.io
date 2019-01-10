@@ -2022,6 +2022,11 @@
 		}
 
 /* Image */
+	.image_logo { 
+		float: left;
+		margin-right: 10px; 
+		display: inline-block;
+	}
 
 	.image {
 		border-radius: 0.35em;
@@ -2152,6 +2157,7 @@
 
 		ul li {
 			padding-left: 0.5em;
+			display: inline-block;
 		}
 
 		ul.alt {
