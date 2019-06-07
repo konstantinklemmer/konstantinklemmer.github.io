@@ -31,7 +31,6 @@
   color: #a2a2a2;
   font: 1em "Source Sans Pro", Helvetica, sans-serif;
   text-transform: uppercase;
- 
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
@@ -1713,6 +1712,7 @@
 		margin: 0 0 2em 0;
 		padding: 0.5em 0 0.5em 1.5em;
 	}
+
 
 	code {
 		background: #f7f7f7;
