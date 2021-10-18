@@ -3212,3 +3212,11 @@
 .show-less:target + a {
   display: none;
 }
+
+/* Div */
+
+div.pub {
+	width: 100%;
+	style="display: inline-block; 
+	overflow: hidden; 
+}
