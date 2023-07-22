@@ -1,0 +1,176 @@
+main:
+
+  - title: Positional Encoder Graph Neural Networks for Geographic Data
+    authors: <b>Klemmer, K.</b>, Safir, N., Neill, D.B.
+    conference_short: AISTATS
+    conference: International Conference on Artificial Intelligence and Statistics <strong>(AISTATS)</strong>, 2023.
+    pdf: https://proceedings.mlr.press/v206/klemmer23a/klemmer23a.pdf
+    code: https://github.com/konstantinklemmer/pe-gnn
+    bibtex: https://github.com/konstantinklemmer/pe-gnn#citation
+    image: ./assets/img/pub/aistats23.png
+    notes: Preliminary version at TCCML Workshop, NeurIPS'22
+
+  - title: "GeoPointGAN: Synthetic Spatial Data with Local Label Differential Privacy"
+    authors: Cunningham, T.*, <b>Klemmer, K.*</b>, Wen, H., Ferhatosmanoglu, H. (* equal contribution)
+    conference_short: Preprint
+    conference: Preprint, 2022.
+    pdf: https://arxiv.org/pdf/2205.08886.pdf
+    code: https://github.com/konstantinklemmer/geopointgan
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://github.com/konstantinklemmer/geopointgan#citation
+    # notes: Oral Presentation
+    image: ./assets/img/pub/arxiv22a.png
+
+  - title: "ReforesTree: A Dataset for Estimating Tropical Forest Carbon Stock with Deep Learning and Aerial Imagery"
+    authors: Reiersen, G., Dao, D., Lütjens, B., <b>Klemmer, K.</b>, Amara, K., Steinegger, A., Zhang, C., Zhu, X.X.
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence, 2022.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/21471/21220
+    code: https://github.com/gyrrei/ReforesTree
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=21471&publicationId=19758
+    notes: Preliminary version at TCCML Workshop, ICML'21
+    image: ./assets/img/pub/aaai22a.png
+
+  - title: "SPATE-GAN: Improved Generative Modeling of Dynamic Spatio-Temporal Patterns with an Autoregressive Embedding Loss"
+    authors: <b>Klemmer, K.*</b>, Xu, T.*, Acciaio, B., Neill, D.B. (* equal contribution)
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence, 2022.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/20375/20134
+    code: https://github.com/konstantinklemmer/spate-gan
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://ojs.aaai.org/index.php/AAAI/citationstylelanguage/download/bibtex?submissionId=20375&publicationId=18672
+    # notes: Oral Presentation
+    image: ./assets/img/pub/arxiv21a.png
+
+  - title: "Deployment Optimization for Shared e-Mobility Systems with Multi-agent Deep Neural Search"
+    authors: Luo, M., Du B., <b>Klemmer, K.</b>, Zhu, H., Wen, H. 
+    conference_short: IEEE T-ITS
+    conference: IEEE Transactions on Intelligent Transportation Systems, 2021.
+    pdf: https://arxiv.org/pdf/2111.02149.pdf
+    # code: https://github.com/konstantinklemmer/spate-gan
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://ieeexplore.ieee.org/document/9616397
+    # notes: Preliminary version at TCCML Workshop, ICML'21
+    image: ./assets/img/pub/its21.png
+
+  - title: "Auxiliary-task learning for geographic data with autoregressive embeddings"
+    authors: <b>Klemmer, K.</b>, Neill, D.B. 
+    conference_short: SIGSPATIAL
+    conference: ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, 2021.
+    pdf: https://arxiv.org/pdf/2006.10461.pdf
+    code: https://github.com/konstantinklemmer/sxl
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://dl.acm.org/doi/abs/10.1145/3474717.3483922?casa_token=Nvt2m0QugmMAAAAA:cemL5dNtwe1XXM58XZGmi_7W_QJVGBHmqfk9e5tgT7QixkG2Z11vb7ffp-arNpssn1j4FEU-o6LVoJ8 
+    # notes: Preliminary version at TCCML Workshop, ICML'21
+    image: ./assets/img/pub/sigspatial21.png
+
+  - title: "Generative modeling of spatio-temporal weather patterns with extreme event conditioning"
+    authors: <b>Klemmer, K.</b>, Saha, S., Kahl, M., Xu, T., Zhu, X.X. 
+    conference_short: ICLR-W
+    conference: AI Modeling Oceans and Climate Change (AIMOCC) Workshop, ICLR, 2021.
+    pdf: https://arxiv.org/pdf/2104.12469.pdf
+    # code: https://github.com/konstantinklemmer/sxl
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://dblp.uni-trier.de/rec/bibtex/journals/corr/abs-2104-12469
+    # notes: Preliminary version at TCCML Workshop, ICML'21
+    image: ./assets/img/pub/aimocc_iclr21.png
+
+  - title: "Understanding Spatial Patterns in Rape Reporting Delays"
+    authors: <b>Klemmer, K.*</b>, Xu, T.*, Acciaio, B., Neill, D.B. (* equal contribution)
+    conference_short: RSOS
+    conference: Royal Society Open Science, 2021.
+    pdf: https://royalsocietypublishing.org/doi/epdf/10.1098/rsos.201795
+    # code: https://github.com/konstantinklemmer/spate-gan
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://royalsocietypublishing.org/action/showCitFormats?doi=10.1098%2Frsos.201795
+    notes: Preliminary version at Modeling and Decision-making in the Spatiotemporal Domain Workshop, NeurIPS'18
+    image: ./assets/img/pub/rsos21.png
+
+  - title: "Towards Algorithm Auditing: A Survey on Managing Legal, Ethical and Technological Risks of AI, ML and Associated Algorithms"
+    authors: Koshiyama, A., Kazim, E., Treleaven, P., Rai, P., Szpruch, L., Pavey, G., Ahamat, G., Leutner, F., Goebel, R., Knight, A, Adams, J., Hitrova, C., Barnett, J., Nachev, P., Barber, D., Chamorro-Premuzic, T., <b>Klemmer, K.</b>, Gregorovic, M., Khan, S., Lomas, E.
+    conference_short: Preprint
+    conference: Preprint, 2021.
+    pdf: https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3778998_code3037924.pdf?abstractid=3778998&mirid=1&type=2
+    # code: https://github.com/konstantinklemmer/spate-gan
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://royalsocietypublishing.org/action/showCitFormats?doi=10.1098%2Frsos.201795
+    # notes: Preliminary version at TCCML Workshop, ICML'21
+    image: ./assets/img/pub/ssrn21.png
+
+  - title: "D3P: Data-Driven Demand Prediction for Fast Expanding Electric Vehicle Sharing Systems"
+    authors: Luo, M., Du B., <b>Klemmer, K.</b>, Zhu, H., Ferhatosmanoglu, H., Wen, H.
+    conference_short: IMWUT
+    conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2020.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3381005
+    # code: https://github.com/konstantinklemmer/spate-gan
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://dl.acm.org/doi/abs/10.1145/3381005
+    # notes: Preliminary version at TCCML Workshop, ICML'21
+    image: ./assets/img/pub/imwut20.png
+
+  - title: "Population Mapping in Informal Settlements with High-Resolution Satellite Imagery and Equitable Ground-Truth"
+    authors: <b>Klemmer, K.</b>, Yeboah, G., Porto de Albuquerque, J., Jarvis, S.A. 
+    conference_short: ICLR-W
+    conference: Machine Learning in Real Life (ML-IRL) Workshop, ICLR, 2020.
+    pdf: https://arxiv.org/pdf/2009.08410v1.pdf
+    # code: https://github.com/konstantinklemmer/spate-gan
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://dblp.uni-trier.de/rec/journals/corr/abs-2009-08410.html?view=bibtex
+    # notes: Preliminary version at TCCML Workshop, ICML'21
+    image: ./assets/img/pub/mlirl_iclr20.png
+
+  - title: "Augmenting Correlation Structures in Spatial Data Using Deep Generative Models"
+    authors: <b>Klemmer, K.</b>, Koshiyama, A., Flennerhag S.
+    conference_short: Preprint
+    conference: Preprint, 2019.
+    pdf: https://arxiv.org/pdf/1905.09796.pdf
+    code: https://github.com/konstantinklemmer/spacegan
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://dblp.uni-trier.de/rec/journals/corr/abs-1905-09796.html?view=bibtex
+    # notes: Preliminary version at TCCML Workshop, ICML'21
+    image: ./assets/img/pub/arxiv19a.png
+
+  - title: "Isolating the effect of cycling on local business environments in London"
+    authors: <b>Klemmer, K.</b>, Brandt, T., and Jarvis, S.A. 
+    conference_short: PLOS ONE
+    conference: PLOS ONE, 2018.
+    pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0209090&type=printable
+    # code: https://github.com/konstantinklemmer/spacegan
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://journals.plos.org/plosone/article/citation/bibtex?id=10.1371/journal.pone.0209090
+    # notes: Preliminary version at TCCML Workshop, ICML'21
+    image: ./assets/img/pub/pone18.png
+
+  - title: "Community structures, interactions and dynamics in London’s bicycle sharing network"
+    authors: Munoz-Mendez, F.*, <b>Klemmer, K.*</b>, Han, K., Jarvis, S.A. (* equal contribution)
+    conference_short: UbiComp-W
+    conference: Workshop on Pervasive Urban Applications (PURBA), UbiComp, 2018.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3267305.3274156
+    code: https://github.com/konstantinklemmer/bikecommclust
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://dl.acm.org/doi/10.1145/3267305.3274156
+    # notes: Preliminary version at TCCML Workshop, ICML'21
+    image: ./assets/img/pub/urbcomp_ubicomp18.png
+
+  - title: "Moving in Time and Space – Location Intelligence for Carsharing Decision Support"
+    authors: Willing, C., <b>Klemmer, K.</b>, Brandt, T., and Neumann, D. 
+    conference_short: DSS
+    conference: Decision Support Systems, 2017.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0167923617300830
+    # code: https://github.com/konstantinklemmer/bikecommclust
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://www.sciencedirect.com/science/article/abs/pii/S0167923617300830
+    # notes: Preliminary version at TCCML Workshop, ICML'21
+    image: ./assets/img/pub/dss17.png
+
+  - title: "Explaining Spatio-Temporal Dynamics in Carsharing: A Case Study of Amsterdam"
+    authors: <b>Klemmer, K.</b>, Willing, C., Wagner, S., and Brandt, T. 
+    conference_short: AMCIS
+    conference: Americas' Conference on Information Systems (AMCIS), 2017.
+    pdf: https://www.researchgate.net/profile/Tobias-Brandt-5/publication/301732623_Explaining_Spatio-Temporal_Dynamics_in_Carsharing_A_Case_Study_of_Amsterdam/links/5724a2ae08ae586b21dbc1b8/Explaining-Spatio-Temporal-Dynamics-in-Carsharing-A-Case-Study-of-Amsterdam.pdf
+    # code: https://github.com/konstantinklemmer/bikecommclust
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://www.sciencedirect.com/science/article/abs/pii/S0167923617300830
+    # notes: Preliminary version at TCCML Workshop, ICML'21
+    image: ./assets/img/pub/amcis16.png
