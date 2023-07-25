@@ -77,7 +77,7 @@ main:
     image: ./assets/img/pub/aimocc_iclr21.png
 
   - title: "Understanding Spatial Patterns in Rape Reporting Delays"
-    authors: <b>Klemmer, K.*</b>, Xu, T.*, Acciaio, B., Neill, D.B. (* equal contribution)
+    authors: <b>Klemmer, K.</b>, Neill, D.B., Jarvis, S.A.
     conference_short: RSOS
     conference: Royal Society Open Science, 2021.
     pdf: https://royalsocietypublishing.org/doi/epdf/10.1098/rsos.201795
