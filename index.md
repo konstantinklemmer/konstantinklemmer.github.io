@@ -10,4 +10,8 @@ I am a postdoctoral researcher at <a href="https://www.microsoft.com/en-us/resea
 
 {% include_relative _includes/publications.md %}
 
+<!-- {% include_relative _includes/service.md %} -->
+
+{% include_relative _includes/students.md %}
+
 {% include_relative _includes/contact.md %}
