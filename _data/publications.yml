@@ -1,5 +1,15 @@
 main:
 
+  - title: Geographic Location Encoding with Spherical Harmonics and Sinusoidal Representation Networks
+    authors: Rußwurm, M., <b>Klemmer, K.</b>, Rolf, E., Zbinden, R., Tuia, D.
+    conference_short: Preprint
+    conference: Preprint, 2023.
+    pdf: https://arxiv.org/pdf/2310.06743.pdf
+    code: https://github.com/marccoru/locationencoder
+    #bibtex: https://github.com/konstantinklemmer/pe-gnn#citation
+    image: ./assets/img/pub/arxiv23a.png
+    #notes: Preliminary version at TCCML Workshop, NeurIPS'22
+
   - title: Positional Encoder Graph Neural Networks for Geographic Data
     authors: <b>Klemmer, K.</b>, Safir, N., Neill, D.B.
     conference_short: AISTATS
