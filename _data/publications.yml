@@ -1,5 +1,16 @@
 main:
 
+  - title: > 
+      SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery
+    authors: <b>Klemmer, K.</b>, Rolf, E., Robinson, C., Mackey, L., Rußwurm, M.
+    conference_short: Preprint
+    conference: Preprint, 2023.
+    pdf: https://arxiv.org/pdf/2311.17179.pdf
+    code: https://github.com/microsoft/satclip
+    bibtex: https://github.com/microsoft/satclip#citation
+    image: ./assets/img/pub/arxiv23b.png
+    notes: Preliminary version at DistShift & TCCML Workshops, NeurIPS'23
+
   - title: Geographic Location Encoding with Spherical Harmonics and Sinusoidal Representation Networks
     authors: Rußwurm, M., <b>Klemmer, K.</b>, Rolf, E., Zbinden, R., Tuia, D.
     conference_short: Preprint
