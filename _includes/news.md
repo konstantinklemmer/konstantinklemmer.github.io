@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[04/01/2024]</strong> New <a href="https://www.nature.com/articles/d41586-023-03983-7">short paper</a> out in Nature, commenting on recent advances in ocean activity mapping using satellite imagery and deep learning.</li>
 <li><strong>[03/12/2023]</strong> I will be attending AGU and NeurIPS in the coming week. Drop me a message if you want to meet up and chat!</li>
 <li><strong>[01/12/2023]</strong> New <a href="https://arxiv.org/abs/2311.17179">preprint</a> out on global, general-purpose pretrained location encoders with satellite imagery.</li>
 <li><strong>[11/10/2023]</strong> I will be at <a href="https://meetings.informs.org/wordpress/phoenix2023/">INFORMS 2023</a> in Phoenix next week. Let me know if you're around and want to chat!</li>

@@ -1,5 +1,14 @@
 main:
 
+  - title: Satellite images reveal untracked human activity on the oceans
+    authors: <b>Klemmer, K.</b>, Rolf, E.
+    conference_short: Nature
+    conference: Nature, 2024.
+    pdf: https://www.nature.com/articles/d41586-023-03983-7
+    bibtex: https://www.nature.com/articles/d41586-023-03983-7
+    image: ./assets/img/pub/nature24.png
+    notes: News & Views
+
   - title: > 
       SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery
     authors: <b>Klemmer, K.</b>, Rolf, E., Robinson, C., Mackey, L., Rußwurm, M.
