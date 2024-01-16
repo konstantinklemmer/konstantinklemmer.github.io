@@ -1,5 +1,15 @@
 main:
 
+  - title: Geographic Location Encoding with Spherical Harmonics and Sinusoidal Representation Networks
+    authors: Rußwurm, M., <b>Klemmer, K.</b>, Rolf, E., Zbinden, R., Tuia, D.
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2310.06743.pdf
+    code: https://github.com/marccoru/locationencoder
+    #bibtex: TODO
+    image: ./assets/img/pub/arxiv23a.png
+    notes: Spotlight
+
   - title: Satellite images reveal untracked human activity on the oceans
     authors: <b>Klemmer, K.</b>, Rolf, E.
     conference_short: Nature
@@ -20,22 +30,12 @@ main:
     image: ./assets/img/pub/arxiv23b.png
     notes: Preliminary version at DistShift & TCCML Workshops, NeurIPS'23
 
-  - title: Geographic Location Encoding with Spherical Harmonics and Sinusoidal Representation Networks
-    authors: Rußwurm, M., <b>Klemmer, K.</b>, Rolf, E., Zbinden, R., Tuia, D.
-    conference_short: Preprint
-    conference: Preprint, 2023.
-    pdf: https://arxiv.org/pdf/2310.06743.pdf
-    code: https://github.com/marccoru/locationencoder
-    #bibtex: https://github.com/konstantinklemmer/pe-gnn#citation
-    image: ./assets/img/pub/arxiv23a.png
-    #notes: Preliminary version at TCCML Workshop, NeurIPS'22
-
   - title: Reflections from the Workshop on AI-Assisted Decision Making for Conservation
     authors: Xu, L., Rolf, E., Beery, S., Bennett, J.R., Berger-Wolf, T., Birch, T., Bondi-Kelly, E., Brashares, J., Chapman, M., Corso, A. and Davies, A., Garg, N., Gaylard, A., Heilmayr, R., Kerner, H., <b>Klemmer, K.</b>, Kumar, V., Mackey, L., Monteleoni, C., Moorcroft, P., Perrault, A., Thau, D., Tambe, M.
     conference_short: Preprint
     conference: Preprint, 2023.
     pdf: https://arxiv.org/pdf/2307.08774.pdf
-    #bibtex: https://github.com/konstantinklemmer/pe-gnn#citation
+    #bibtex: TODO
     image: ./assets/img/pub/ai_eco.png
 
   - title: Positional Encoder Graph Neural Networks for Geographic Data
