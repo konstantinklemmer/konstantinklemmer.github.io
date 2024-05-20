@@ -1,5 +1,16 @@
 main:
 
+  - title: "Towards Algorithm Auditing: A Survey on Managing Legal, Ethical and Technological Risks of AI, ML and Associated Algorithms"
+    authors: Koshiyama, A., Kazim, E., Treleaven, P., Rai, P., Szpruch, L., Pavey, G., Ahamat, G., Leutner, F., Goebel, R., Knight, A, Adams, J., Hitrova, C., Barnett, J., Nachev, P., Barber, D., Chamorro-Premuzic, T., <b>Klemmer, K.</b>, Gregorovic, M., Khan, S., Lomas, E.
+    conference_short: RSOS
+    conference: Royal Society Open Science, 2024.
+    pdf: https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3778998_code3037924.pdf?abstractid=3778998&mirid=1&type=2
+    # code: https://github.com/konstantinklemmer/spate-gan
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://royalsocietypublishing.org/action/showCitFormats?doi=10.1098%2Frsos.201795
+    # notes: Preliminary version at TCCML Workshop, ICML'21
+    image: ./assets/img/pub/ssrn21.png
+
   - title: Mission Critical - Satellite Data is a Distinct Modality in Machine Learning
     authors: Rolf, E., <b>Klemmer, K.</b>, Rolf, E., Robinson, C., Kerner, H.
     conference_short: ICML
@@ -132,17 +143,6 @@ main:
     bibtex: https://royalsocietypublishing.org/action/showCitFormats?doi=10.1098%2Frsos.201795
     notes: Preliminary version at Modeling and Decision-making in the Spatiotemporal Domain Workshop, NeurIPS'18
     image: ./assets/img/pub/rsos21.png
-
-  - title: "Towards Algorithm Auditing: A Survey on Managing Legal, Ethical and Technological Risks of AI, ML and Associated Algorithms"
-    authors: Koshiyama, A., Kazim, E., Treleaven, P., Rai, P., Szpruch, L., Pavey, G., Ahamat, G., Leutner, F., Goebel, R., Knight, A, Adams, J., Hitrova, C., Barnett, J., Nachev, P., Barber, D., Chamorro-Premuzic, T., <b>Klemmer, K.</b>, Gregorovic, M., Khan, S., Lomas, E.
-    conference_short: Preprint
-    conference: Preprint, 2021.
-    pdf: https://papers.ssrn.com/sol3/Delivery.cfm/SSRN_ID3778998_code3037924.pdf?abstractid=3778998&mirid=1&type=2
-    # code: https://github.com/konstantinklemmer/spate-gan
-    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    # bibtex: https://royalsocietypublishing.org/action/showCitFormats?doi=10.1098%2Frsos.201795
-    # notes: Preliminary version at TCCML Workshop, ICML'21
-    image: ./assets/img/pub/ssrn21.png
 
   - title: "D3P: Data-Driven Demand Prediction for Fast Expanding Electric Vehicle Sharing Systems"
     authors: Luo, M., Du B., <b>Klemmer, K.</b>, Zhu, H., Ferhatosmanoglu, H., Wen, H.
