@@ -18,6 +18,7 @@ main:
     pdf: https://arxiv.org/pdf/2402.01444.pdf
     #bibtex: TODO
     image: ./assets/img/pub/arxiv24a.png
+    notes: Spotlight
 
   - title: Geographic Location Encoding with Spherical Harmonics and Sinusoidal Representation Networks
     authors: Rußwurm, M., <b>Klemmer, K.</b>, Rolf, E., Zbinden, R., Tuia, D.
