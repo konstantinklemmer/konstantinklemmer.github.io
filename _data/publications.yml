@@ -1,5 +1,16 @@
 main:
 
+  - title: > 
+      SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery
+    authors: <b>Klemmer, K.</b>, Rolf, E., Robinson, C., Mackey, L., Rußwurm, M.
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence, 2025.
+    pdf: https://arxiv.org/pdf/2311.17179.pdf
+    code: https://github.com/microsoft/satclip
+    bibtex: https://github.com/microsoft/satclip#citation
+    image: ./assets/img/pub/arxiv23b.png
+    notes: Preliminary version at DistShift & TCCML Workshops, NeurIPS'23
+
   - title: "Towards Algorithm Auditing: A Survey on Managing Legal, Ethical and Technological Risks of AI, ML and Associated Algorithms"
     authors: Koshiyama, A., Kazim, E., Treleaven, P., Rai, P., Szpruch, L., Pavey, G., Ahamat, G., Leutner, F., Goebel, R., Knight, A, Adams, J., Hitrova, C., Barnett, J., Nachev, P., Barber, D., Chamorro-Premuzic, T., <b>Klemmer, K.</b>, Gregorovic, M., Khan, S., Lomas, E.
     conference_short: RSOS
@@ -38,17 +49,6 @@ main:
     bibtex: https://www.nature.com/articles/d41586-023-03983-7
     image: ./assets/img/pub/nature24.png
     notes: News & Views
-
-  - title: > 
-      SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery
-    authors: <b>Klemmer, K.</b>, Rolf, E., Robinson, C., Mackey, L., Rußwurm, M.
-    conference_short: Preprint
-    conference: Preprint, 2023.
-    pdf: https://arxiv.org/pdf/2311.17179.pdf
-    code: https://github.com/microsoft/satclip
-    bibtex: https://github.com/microsoft/satclip#citation
-    image: ./assets/img/pub/arxiv23b.png
-    notes: Preliminary version at DistShift & TCCML Workshops, NeurIPS'23
 
   - title: Reflections from the Workshop on AI-Assisted Decision Making for Conservation
     authors: Xu, L., Rolf, E., Beery, S., Bennett, J.R., Berger-Wolf, T., Birch, T., Bondi-Kelly, E., Brashares, J., Chapman, M., Corso, A. and Davies, A., Garg, N., Gaylard, A., Heilmayr, R., Kerner, H., <b>Klemmer, K.</b>, Kumar, V., Mackey, L., Monteleoni, C., Moorcroft, P., Perrault, A., Thau, D., Tambe, M.
