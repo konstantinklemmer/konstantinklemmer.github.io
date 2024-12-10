@@ -3,13 +3,14 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[10/12/2024]</strong> One <a href="https://arxiv.org/abs/2311.17179">paper</a> accepted at AAAI.</li>
 <li><strong>[04/05/2024]</strong> One <a href="https://arxiv.org/abs/2402.01444">paper</a> accepted at ICML.</li>
 <li><strong>[21/02/2024]</strong> I recently talked about SatCLIP on Robin Cole's "Satellite Image Deep Learning" podcast. You can check the recording <a href="https://www.satellite-image-deep-learning.com/p/location-embedding-with-satclip-with">here</a>.</li>
 <li><strong>[16/01/2024]</strong> One <a href="https://arxiv.org/abs/2310.06743">paper</a> accepted at ICLR as a spotlight.</li>
-<li><strong>[04/01/2024]</strong> New <a href="https://www.nature.com/articles/d41586-023-03983-7">short paper</a> out in Nature, commenting on recent advances in ocean activity mapping using satellite imagery and deep learning.</li>
-  
+
 <a href="javascript:toggle_vis('newsmore')">Show more</a>
 <div id="newsmore" style="display:none"> 
+  <li><strong>[04/01/2024]</strong> New <a href="https://www.nature.com/articles/d41586-023-03983-7">short paper</a> out in Nature, commenting on recent advances in ocean activity mapping using satellite imagery and deep learning.</li>
   <li><strong>[03/12/2023]</strong> I will be attending AGU and NeurIPS in the coming week. Drop me a message if you want to meet up and chat!</li>
   <li><strong>[01/12/2023]</strong> New <a href="https://arxiv.org/abs/2311.17179">preprint</a> out on global, general-purpose pretrained location encoders with satellite imagery.</li>
   <li><strong>[11/10/2023]</strong> New <a href="https://arxiv.org/abs/2310.06743">preprint</a> out on geographic location encoding with neural networks.</li>
