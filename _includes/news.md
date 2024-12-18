@@ -3,6 +3,7 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[18/12/2024]</strong> I have transitioned into a full-time researcher role at Microsoft Research.</li>
 <li><strong>[10/12/2024]</strong> One <a href="https://arxiv.org/abs/2311.17179">paper</a> accepted at AAAI.</li>
 <li><strong>[04/05/2024]</strong> One <a href="https://arxiv.org/abs/2402.01444">paper</a> accepted at ICML.</li>
 <li><strong>[21/02/2024]</strong> I recently talked about SatCLIP on Robin Cole's "Satellite Image Deep Learning" podcast. You can check the recording <a href="https://www.satellite-image-deep-learning.com/p/location-embedding-with-satclip-with">here</a>.</li>
