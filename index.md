@@ -4,7 +4,6 @@ layout: homepage
 
 ## About Me
 
-<!-- I am a postdoctoral researcher at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england">Microsoft Research New England</a>. -->
 I am a machine learning researcher at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/">Microsoft Research Redmond</a>.
 My research focuses broadly on applied AI and data-centric methods in organizational contexts and, more specifically, on the representation of geospatial phenomena in machine learning methods. Beyond that, I am interested in the application of these methods in urban environments and to tackle climate change. 
 In my free time, I volunteer for <a href="https://climatechange.ai">Climate Change AI</a> where I served for two terms on the board until fall 2022. 
