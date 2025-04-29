@@ -1,5 +1,21 @@
 main:
 
+  - title: "A Joint Space-Time Encoder for Geographic Time-Series Data"
+    authors: Mikisch, D., <b>Klemmer, K.</b>, Teng, M., Rolnick, D.
+    conference_short: ICLR-W
+    conference: Tackling Climate Change with Machine Learning Workshop, ICLR, 2025.
+    pdf: https://www.climatechange.ai/papers/iclr2025/25/paper.pdf
+    bibtex: https://www.climatechange.ai/papers/iclr2025/25
+    image: ./assets/img/pub/iclr-w25b.png
+
+  - title: "Predicting out-of-domain performance under geographic distribution shifts"
+    authors: Zhang, H., <b>Klemmer, K.</b>, Rolf, E., Alvarez-Melis, D.
+    conference_short: ICLR-W
+    conference: Tackling Climate Change with Machine Learning Workshop, ICLR, 2025.
+    pdf: https://www.climatechange.ai/papers/iclr2025/290/paper.pdf
+    bibtex: https://www.climatechange.ai/papers/iclr2025/20
+    image: ./assets/img/pub/iclr-w25a.png
+  
   - title: > 
       SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery
     authors: <b>Klemmer, K.</b>, Rolf, E., Robinson, C., Mackey, L., Rußwurm, M.
