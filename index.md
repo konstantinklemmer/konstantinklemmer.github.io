@@ -17,8 +17,8 @@ For a recent talk about my work, check the video (MIT LIDS Seminar 2025) below:
 src="https://www.youtube.com/embed/oDZrZXSakfY">
 </iframe>
 
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 {% include_relative _includes/news.md %}
 
