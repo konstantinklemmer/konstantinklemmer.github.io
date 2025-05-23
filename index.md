@@ -12,6 +12,11 @@ I completed my PhD at the <a href="http://www.wisc.warwick.ac.uk/">University of
 I was also an Enrichment student at the <a href="https://turing.ac.uk">Alan Turing Institute</a> and a Beyond Fellow at <a href="https://ai4eo.de/">TUM / DLR</a>. 
 I hold a Bachelors degree in Economics from the <em>University of Freiburg (Germany)</em> and a Masters in Transportation from <em>Imperial College</em> and <em>University College London</em>.
 
+For a recent talk about my work, check the video (MIT LIDS Seminar 2025) below:
+<iframe width="420" height="315"
+src="https://www.youtube.com/embed/oDZrZXSakfY">
+</iframe>
+
 <br>
 <br>
 
