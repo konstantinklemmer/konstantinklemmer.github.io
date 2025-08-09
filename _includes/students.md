@@ -2,5 +2,7 @@
 
 <h2 style="margin: 60px 0px 10px;">Students & Mentees</h2>
 
+<strong>David Mikisch</strong>, Postgraduate student, TU Berlin & Mila <br/>
+<strong>Haoran Zhang</strong>, Postgraduate student, Harvard University <br/>
 <strong>Natha Safir</strong>, Undergraduate student, University of Georgia <i>(now SWE at Google)</i> <br/>
 <strong>Gyri Reiersen</strong>, Masters student, Technical University of Munich <i>(now co-founder at <a href='https://tanso.io/en'>Tanso</a>)</i>
