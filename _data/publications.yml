@@ -1,5 +1,13 @@
 main:
 
+  - title: "Measuring the Intrinsic Dimension of Earth Representations"
+    authors: Rao, A., Rußwurm, M., <b>Klemmer, K.</b>, Rolf, E.
+    conference_short: Preprint
+    conference: Preprint, 2025.
+    pdf: https://arxiv.org/pdf/2511.02101
+    #bibtex: TODO
+    image: ./assets/img/pub/arxiv25a.png
+
   - title: "A Joint Space-Time Encoder for Geographic Time-Series Data"
     authors: Mikisch, D., <b>Klemmer, K.</b>, Teng, M., Rolnick, D.
     conference_short: ICLR-W
