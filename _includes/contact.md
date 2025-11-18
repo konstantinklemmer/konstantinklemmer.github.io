@@ -4,4 +4,4 @@
 
 <strong>Address:</strong> Seattle, WA, USA
 <br />
-<strong>Email:</strong> <email>konstantin.klemmer16 (at) alumni.imperial.ac.uk</email>
+<strong>Email:</strong> <email>konstantin.klemmer.16 (at) ucl.ac.uk</email>

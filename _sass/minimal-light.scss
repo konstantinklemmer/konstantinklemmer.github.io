@@ -193,6 +193,11 @@ papertitle {
     color:#eeeff0;
     }
 
+    .hiring-box {
+      background: transparent;
+      border-color: #eeeff0;
+    }
+
 }
 
 
@@ -607,4 +612,36 @@ footer {
   margin-left: 0px;
   display:none;
   font-family: monospace;
+}
+
+.hiring-box {
+  font-weight: 600;
+  border: 1px solid #043361;
+  background: transparent;
+  padding: 16px 20px;
+  border-radius: 12px;
+  margin: 28px 0;
+  line-height: 1.4;
+}
+.hiring-box ul,
+.hiring-box ol {
+  margin: 8px 0 14px;
+  padding-left: 22px;
+}
+.hiring-box p {
+  margin: 0 0 12px;
+}
+.hiring-box em {
+  font-style: italic;
+}
+
+.email-inline {
+font-family: "Ubuntu Mono", monospace;
+font-size: 14px;
+font-weight: 600;
+letter-spacing: 0.3px;
+}
+
+.hiring-box .email-inline strong {
+font-weight: 600;
 }
