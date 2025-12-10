@@ -11,7 +11,7 @@ I completed my PhD at the <a href="http://www.wisc.warwick.ac.uk/">University of
 I was also an Enrichment student at the <a href="https://turing.ac.uk">Alan Turing Institute</a> and a Beyond Fellow at <a href="https://ai4eo.de/">TUM / DLR</a>. 
 In my free time, I volunteer for <a href="https://climatechange.ai">Climate Change AI</a> where I served for two terms on the board od directors. 
 
-<div class="hiring-box">
+<!-- <div class="hiring-box">
   <p><strong>I am currently hiring PhD students!</strong> I am looking for students interested in one or more of the following areas:</p>
   <ul>
     <li>Self-supervised representation learning for large-scale geospatial data</li>
@@ -23,7 +23,7 @@ In my free time, I volunteer for <a href="https://climatechange.ai">Climate Chan
     <li>CV</li>
     <li>A 1–2 page research proposal (excluding references), including: Proposed topic / title, Research gaps and why they matter, Planned / potential data, Methodology / study design, Expected contributions / conclusions, Key references</li>
   </ol>
-</div>
+</div> -->
 
 For a recent talk about my work, check the video (MIT LIDS Seminar 2025) below:
 <iframe width="420" height="315"

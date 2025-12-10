@@ -1,5 +1,13 @@
 main:
 
+  - title: "Earth Embeddings: Towards AI-centric Representations of our Planet"
+    authors: <b>Klemmer</b>, K., Rolf, E., Russwurm, M., Camps-Valls, G., Czerkawski, M., Ermon, S., Francis, A., Jacobs, N., Kerner, H., Mackey, L., Mai, G., Mac Aodha, O., Reichstein, M., Robinson, C., Rolnick, D., Shelhamer, E., Sitzmann, V., Tuia, D., Zhu X. 
+    conference_short: Preprint
+    conference: Preprint, 2025.
+    pdf: https://eartharxiv.org/repository/object/11083/download/20213/
+    #bibtex: TODO
+    image: ./assets/img/pub/eartharxiv25a.png
+
   - title: "Measuring the Intrinsic Dimension of Earth Representations"
     authors: Rao, A., Rußwurm, M., <b>Klemmer, K.</b>, Rolf, E.
     conference_short: Preprint
