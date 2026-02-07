@@ -1,5 +1,13 @@
 main:
 
+  - title: "Localized, High-resolution Geographic Representations with Slepian Functions"
+    authors: Rao, A., Crasto, R., Ooms, T., Rolnick, D., <b>Klemmer, K.</b>, Rußwurm, M.
+    conference_short: Preprint
+    conference: Preprint, 2026.
+    pdf: https://arxiv.org/abs/2602.00392
+    #bibtex: TODO
+    image: ./assets/img/pub/arxiv26a.png
+
   - title: "Measuring the Intrinsic Dimension of Earth Representations"
     authors: Rao, A., Rußwurm, M., <b>Klemmer, K.</b>, Rolf, E.
     conference_short: ICLR
