@@ -3,7 +3,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
-<li><strong>[02/07/2026]</strong> New <a href="https://arxiv.org/abs/2602.00392">preprint</a> out on high-resolution, regional location encoding.</li>
+<li><strong>[10/04/2026]</strong> New <a href="https://arxiv.org/abs/2603.29441">workshop paper</a> at ICLR 2026.</li>
+<li><strong>[07/02/2026]</strong> New <a href="https://arxiv.org/abs/2602.00392">preprint</a> out on high-resolution, regional location encoding.</li>
 <li><strong>[30/01/2026]</strong> One <a href="https://arxiv.org/abs/2511.02101"> paper</a> accepted at ICLR 2026.</li>
 <li><strong>[10/12/2025]</strong> New <a href="https://eartharxiv.org/repository/view/11083/">perspectives paper</a> out defining Earth embedding research and community priorities.</li>
 <li><strong>[18/11/2024]</strong> I will be joining <a href="https://www.ucl.ac.uk/">UCL</a> as an Assistant Professor in Geospatial AI from fall 2026. I am currently recruiting PhD students (see above).</li>
