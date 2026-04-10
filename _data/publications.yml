@@ -2,7 +2,7 @@ main:
 
   - title: "EarthEmbeddingExplorer: A Web Application for Cross-Modal Retrieval of Global Satellite Images"
     authors: Zheng, Y., Wu, W., Wu, B., Zhao, L., Li, G., Czerkawski, M., <b>Klemmer, K.</b>
-    conference_short: Preprint
+    conference_short: Machine Learning for Remote Sensing (ML4RS) Workshop, ICLR, 2026.
     conference: Preprint, 2026.
     pdf: https://arxiv.org/abs/2603.29441
     #bibtex: TODO
