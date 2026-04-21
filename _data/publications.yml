@@ -1,5 +1,13 @@
 main:
 
+  - title: "OT on the Map: Quantifying Domain Shifts in Geographic Space"
+    authors: Zhang, H., Betti, L., <b>Klemmer, K.</b>, Rolf, E., Alvarez-Melis, D.
+    conference_short:  Preprint
+    conference: Preprint, 2026.
+    pdf: https://arxiv.org/abs/2604.16220
+    #bibtex: TODO
+    image: ./assets/img/pub/arxiv26c.png
+
   - title: "EarthEmbeddingExplorer: A Web Application for Cross-Modal Retrieval of Global Satellite Images"
     authors: Zheng, Y., Wu, W., Wu, B., Zhao, L., Li, G., Czerkawski, M., <b>Klemmer, K.</b>
     conference_short:  ICLR-W
