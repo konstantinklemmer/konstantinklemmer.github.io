@@ -13,13 +13,13 @@ main:
     conference_short:  ICLR-W
     conference: Machine Learning for Remote Sensing (ML4RS) Workshop, ICLR, 2026.
     pdf: https://arxiv.org/abs/2603.29441
-    #bibtex: TODO
+    bibtex: https://openreview.net/forum?id=LSsEenJVqD
     image: ./assets/img/pub/arxiv26b.png
 
   - title: "Localized, High-resolution Geographic Representations with Slepian Functions"
     authors: Rao, A., Crasto, R., Ooms, T., Rolnick, D., <b>Klemmer, K.</b>, Rußwurm, M.
-    conference_short: Preprint
-    conference: Preprint, 2026.
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
     pdf: https://arxiv.org/abs/2602.00392
     #bibtex: TODO
     image: ./assets/img/pub/arxiv26a.png
@@ -29,7 +29,7 @@ main:
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2511.02101
-    #bibtex: TODO
+    bibtex: https://openreview.net/forum?id=gQPD83DrGp
     image: ./assets/img/pub/arxiv25a.png
 
   - title: "Earth Embeddings: Towards AI-centric Representations of our Planet"
@@ -83,7 +83,7 @@ main:
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2402.01444.pdf
-    #bibtex: TODO
+    bibtex: https://openreview.net/forum?id=PQ0ERKKYJu
     image: ./assets/img/pub/arxiv24a.png
     notes: Spotlight
 
@@ -93,7 +93,7 @@ main:
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2310.06743.pdf
     code: https://github.com/marccoru/locationencoder
-    #bibtex: TODO
+    bibtex: https://openreview.net/forum?id=PudduufFLa&noteId=MpoxOQ8IGF
     image: ./assets/img/pub/arxiv23a.png
     notes: Spotlight (Top 5%)
 
