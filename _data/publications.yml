@@ -1,5 +1,21 @@
 main:
 
+  - title: "Spatial Representation Learning Beyond Pixels: Unifying Raster Data and Vector Semantics for Human-Centric Geospatial Foundation Models"
+    authors: Knoblauch, S., Li, H., Mai, G., <b>Klemmer, K.</b>, Gao, S., Li, W.
+    conference_short: Preprint
+    conference: Preprint, 2026.
+    pdf: https://arxiv.org/abs/2606.02374
+    #bibtex: TODO
+    image: ./assets/img/pub/arxiv26d.png
+
+  - title: "A Blueprint for Integrated Climate Intelligence"
+    authors: Rodriguez-Pardo, C., Ascenso, G., Azuero Pedraza, C.G., Bachelery, M.-L., Balzarolo, M., Beery, S., Benson, V., Berti-Equille, L., Bracco, A., Butenschön, M., Camps-Valls, G., Castelletti, A., Chapman, M., Colfescu, I., Epicoco, I., James, C., <b>Klemmer, K.</b>, Kotsch, R., Kumar, V., Lessig, C., Mozaffari, A., Mukkavilli, S.K., Ouaknine, A., Paletta, Q., Pérez-Ortiz, M., Rolf, E., Sanford, M., Shayegh, S., Tokarska, K., Tavoni, M.
+    conference_short: Preprint
+    conference: Preprint, 2026.
+    pdf: https://eartharxiv.org/repository/view/13019/
+    #bibtex: TODO
+    image: ./assets/img/pub/eartharxiv26a.png
+
   - title: "OT on the Map: Quantifying Domain Shifts in Geographic Space"
     authors: Zhang, H., Betti, L., <b>Klemmer, K.</b>, Rolf, E., Alvarez-Melis, D.
     conference_short:  Preprint
@@ -17,6 +33,7 @@ main:
     image: ./assets/img/pub/arxiv26b.png
 
   - title: "Localized, High-resolution Geographic Representations with Slepian Functions"
+    selected: true
     authors: Rao, A., Crasto, R., Ooms, T., Rolnick, D., <b>Klemmer, K.</b>, Rußwurm, M.
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
@@ -25,6 +42,7 @@ main:
     image: ./assets/img/pub/arxiv26a.png
 
   - title: "Measuring the Intrinsic Dimension of Earth Representations"
+    selected: true
     authors: Rao, A., Rußwurm, M., <b>Klemmer, K.</b>, Rolf, E.
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
@@ -58,6 +76,7 @@ main:
   
   - title: > 
       SatCLIP: Global, General-Purpose Location Embeddings with Satellite Imagery
+    selected: true
     authors: <b>Klemmer, K.</b>, Rolf, E., Robinson, C., Mackey, L., Rußwurm, M.
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence, 2025.
@@ -79,6 +98,7 @@ main:
     image: ./assets/img/pub/ssrn21.png
 
   - title: Mission Critical - Satellite Data is a Distinct Modality in Machine Learning
+    selected: true
     authors: Rolf, E., <b>Klemmer, K.</b>, Rolf, E., Robinson, C., Kerner, H.
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
@@ -88,6 +108,7 @@ main:
     notes: Spotlight
 
   - title: Geographic Location Encoding with Spherical Harmonics and Sinusoidal Representation Networks
+    selected: true
     authors: Rußwurm, M., <b>Klemmer, K.</b>, Rolf, E., Zbinden, R., Tuia, D.
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.

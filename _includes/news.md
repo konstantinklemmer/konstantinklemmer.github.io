@@ -3,6 +3,8 @@
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
 <ul>
+<li><strong>[01/06/2026]</strong> New <a href="https://arxiv.org/abs/2606.02374">preprint</a> out on unifying raster data and vector semantics for human-centric geospatial foundation models.</li>
+<li><strong>[13/05/2026]</strong> New <a href="https://eartharxiv.org/repository/view/13019/">perspectives paper</a> out presenting a blueprint for Integrated Climate Intelligence.</li>
 <li><strong>[01/05/2026]</strong> One <a href="https://arxiv.org/abs/2602.00392"> paper</a> accepted at ICML 2026.</li>
 <li><strong>[21/04/2026]</strong> New <a href="https://arxiv.org/abs/2604.16220">preprint</a> on predicting geographic distribution shifts with Earth embeddings.</li>
 <li><strong>[10/04/2026]</strong> New <a href="https://arxiv.org/abs/2603.29441">workshop paper</a> at ICLR 2026.</li>
