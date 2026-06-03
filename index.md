@@ -9,7 +9,7 @@ My research focuses on the representation of geospatial phenomena in machine lea
 Before my current role, I was as a postdoctoral researcher and research scientist at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-new-england">Microsoft Research</a>.
 I completed my PhD at the <a href="http://www.wisc.warwick.ac.uk/">University of Warwick</a> and <a href="https://wp.nyu.edu/ml4good/">New York University</a>. 
 I was also an Enrichment student at the <a href="https://turing.ac.uk">Alan Turing Institute</a> and a Beyond Fellow at <a href="https://ai4eo.de/">TUM / DLR</a>. 
-In my free time, I volunteer for <a href="https://climatechange.ai">Climate Change AI</a> where I served for two terms on the board od directors. 
+In my free time, I volunteer for <a href="https://climatechange.ai">Climate Change AI</a> where I served two terms on the board of directors. 
 
 <!-- <div class="hiring-box">
   <p><strong>I am currently hiring PhD students!</strong> I am looking for students interested in one or more of the following areas:</p>
@@ -26,9 +26,13 @@ In my free time, I volunteer for <a href="https://climatechange.ai">Climate Chan
 </div> -->
 
 For a recent talk about my work, check the video (MIT LIDS Seminar 2025) below:
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/oDZrZXSakfY">
-</iframe>
+<div class="video-wrap">
+  <iframe src="https://www.youtube.com/embed/oDZrZXSakfY"
+    title="MIT LIDS Seminar 2025 — Konstantin Klemmer"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen></iframe>
+</div>
 
 <!-- <br>
 <br> -->
