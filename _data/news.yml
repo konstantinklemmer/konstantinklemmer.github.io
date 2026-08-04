@@ -1,4 +1,13 @@
 items:
+
+  - date: "04/08/2026"
+    text: >-
+      Our <a href="https://ieeexplore.ieee.org/document/11636001">perspective paper on Earth embeddings</a> has been published in IEEE GRSM and is fully open-access.
+
+  - date: "05/07/2026"
+    text: >-
+      We gave a <a href="https://github.com/konstantinklemmer/isprs26-embeddings-tutorial">tutorial</a> on Earth embeddings at the ISPRS Congress 2026. Check out the materials on Github!
+
   - date: "01/06/2026"
     text: >-
       New <a href="https://arxiv.org/abs/2606.02374">preprint</a> out on unifying raster data and vector semantics for human-centric geospatial foundation models.

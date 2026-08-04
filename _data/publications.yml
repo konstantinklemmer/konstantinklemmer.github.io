@@ -1,5 +1,13 @@
 main:
 
+  - title: "Earth Embeddings: Toward artificial intelligence-centric representations of our planet"
+    authors: <b>Klemmer</b>, K., Rolf, E., Russwurm, M., Camps-Valls, G., Czerkawski, M., Ermon, S., Francis, A., Jacobs, N., Kerner, H., Mackey, L., Mai, G., Mac Aodha, O., Reichstein, M., Robinson, C., Rolnick, D., Shelhamer, E., Sitzmann, V., Tuia, D., Zhu X. 
+    conference_short: IEEE-GRSM
+    conference: IEEE Geoscience and Remote Sensing Magazine, 2026.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11636001
+    bibtex: https://ieeexplore.ieee.org/document/11636001
+    image: ./assets/img/pub/eartharxiv25a.png
+    
   - title: "Spatial Representation Learning Beyond Pixels: Unifying Raster Data and Vector Semantics for Human-Centric Geospatial Foundation Models"
     authors: Knoblauch, S., Li, H., Mai, G., <b>Klemmer, K.</b>, Gao, S., Li, W.
     conference_short: Preprint
@@ -49,14 +57,6 @@ main:
     pdf: https://arxiv.org/pdf/2511.02101
     bibtex: https://openreview.net/forum?id=gQPD83DrGp
     image: ./assets/img/pub/arxiv25a.png
-
-  - title: "Earth Embeddings: Towards AI-centric Representations of our Planet"
-    authors: <b>Klemmer</b>, K., Rolf, E., Russwurm, M., Camps-Valls, G., Czerkawski, M., Ermon, S., Francis, A., Jacobs, N., Kerner, H., Mackey, L., Mai, G., Mac Aodha, O., Reichstein, M., Robinson, C., Rolnick, D., Shelhamer, E., Sitzmann, V., Tuia, D., Zhu X. 
-    conference_short: Preprint
-    conference: Preprint, 2025.
-    pdf: https://eartharxiv.org/repository/object/11083/download/20213/
-    #bibtex: TODO
-    image: ./assets/img/pub/eartharxiv25a.png
 
   - title: "A Joint Space-Time Encoder for Geographic Time-Series Data"
     authors: Mikisch, D., <b>Klemmer, K.</b>, Teng, M., Rolnick, D.
