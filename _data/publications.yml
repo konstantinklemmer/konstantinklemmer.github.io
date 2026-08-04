@@ -1,6 +1,7 @@
 main:
 
   - title: "Earth Embeddings: Toward artificial intelligence-centric representations of our planet"
+    selected: true
     authors: <b>Klemmer</b>, K., Rolf, E., Russwurm, M., Camps-Valls, G., Czerkawski, M., Ermon, S., Francis, A., Jacobs, N., Kerner, H., Mackey, L., Mai, G., Mac Aodha, O., Reichstein, M., Robinson, C., Rolnick, D., Shelhamer, E., Sitzmann, V., Tuia, D., Zhu X. 
     conference_short: IEEE-GRSM
     conference: IEEE Geoscience and Remote Sensing Magazine, 2026.
@@ -41,7 +42,6 @@ main:
     image: ./assets/img/pub/arxiv26b.png
 
   - title: "Localized, High-resolution Geographic Representations with Slepian Functions"
-    selected: true
     authors: Rao, A., Crasto, R., Ooms, T., Rolnick, D., <b>Klemmer, K.</b>, Rußwurm, M.
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
