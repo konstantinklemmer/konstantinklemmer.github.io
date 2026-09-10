@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{ site.title }} | {{site.position}}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -53,11 +53,13 @@
         <h1>{{ site.title }}</h1>
 
         {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
+        <position style="font-size:1.10rem;">
+          {% if site.position_link %}<a href="{{ site.position_link }}" target="_blank" rel="noopener"><autocolor>{{ site.position }}</autocolor></a>{% else %}{{ site.position }}{% endif %}
+        </position>
         <br>
         {% endif %}
         {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        {% if site.affiliation_link %}<a href="{{ site.affiliation_link }}" target="_blank" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>{% else %}{{ site.affiliation }}{% endif %}
         <br>
         {% endif %}
         {% if site.email %}
@@ -65,11 +67,11 @@
         {% endif %}
 
         <div class="affiliation-logos">
-          <a href="https://lgnd.io/" target="_blank" rel="noopener" class="logo-chip" aria-label="LGND AI">
-            <img src="./assets/img/logo/lgnd.png" alt="LGND AI" />
-          </a>
           <a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener" class="logo-chip" aria-label="UCL">
             <img src="./assets/img/logo/ucl.svg" alt="UCL" />
+          </a>
+          <a href="https://lgnd.io/" target="_blank" rel="noopener" class="logo-chip" aria-label="LGND AI">
+            <img src="./assets/img/logo/lgnd.png" alt="LGND AI" />
           </a>
         </div>
 

@@ -1,13 +1,15 @@
 # Basic Information 
 title: Konstantin Klemmer
-position: Research Engineer, LGND AI
-affiliation: Assistant Professor (incoming), UCL
+position: Assistant Professor, UCL
+position_link: https://www.ucl.ac.uk/
+affiliation: Research Engineer, LGND AI
+affiliation_link: https://lgnd.io/
 email: konstantin.klemmer.16 (at) ucl.ac.uk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: konstantin klemmer, geospatial machine learning, geospatial data science, geospatial data mining, geospatial data analysis, computational sustainability, smart cities, urban analytics, urban computing
-description: Presonal academic webpage for Konstantin Klemmer
+description: Personal academic webpage for Konstantin Klemmer
 canonical: https://konstantinklemmer.github.io/
 
 # Links 
