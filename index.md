@@ -20,7 +20,7 @@ In my free time, I volunteer for <a href="https://climatechange.ai">Climate Chan
     <li>Combining approaches from spatial statistics and geography with machine learning methods</li>
     <li>Geospatial AI applied to real-world problems, from climate change to urban development</li>
   </ul>
-  <p>Prospective students will work in an interdisciplinary environment that encourages and fosters collaboration across academic domains, with the goal of developing high-impact AI methods designed for and with real-world use cases. Interested students should send the following documents to <a class="email-inline" href="mailto:konstantin.klemmer.16@ucl.ac.uk"><strong>konstantin.klemmer.16@ucl.ac.uk</strong></a> using the subject line <em>[UCLCEGE PHD 26]</em> no later than <strong>December 5, 2025</strong> (I will start reviewing on December 1):</p>
+  <p>Prospective students will work in an interdisciplinary environment that encourages and fosters collaboration across academic domains, with the goal of developing high-impact AI methods designed for and with real-world use cases. Interested students should send the following documents to <a class="email-inline" href="mailto:konstantin.klemmer@ucl.ac.uk"><strong>konstantin.klemmer@ucl.ac.uk</strong></a> using the subject line <em>[UCLCEGE PHD 26]</em> no later than <strong>December 5, 2025</strong> (I will start reviewing on December 1):</p>
   <ol>
     <li>CV</li>
     <li>A 1–2 page research proposal (excluding references), including: Proposed topic / title, Research gaps and why they matter, Planned / potential data, Methodology / study design, Expected contributions / conclusions, Key references</li>
