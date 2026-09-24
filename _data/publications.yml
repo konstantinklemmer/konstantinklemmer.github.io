@@ -1,5 +1,15 @@
 main:
 
+  - title: "MIND the Gap: A Geographic Implicit Neural Representation with Adjustable Spatial Scale"
+    authors: Corley, I., Rao, A., Rolf, E., <b>Klemmer, K.</b>, Shelhamer, E., Lehmann, N., Rußwurm, M., Mai, G., Jacobs, N., Kerner, H.
+    conference_short: Preprint
+    conference: Preprint, 2026.
+    pdf: https://arxiv.org/abs/2609.25454
+    code: https://github.com/taylor-geospatial/mind
+    page: https://research.taylorgeospatial.org/mind/
+    #bibtex: TODO
+    image: ./assets/img/pub/arxiv26e.png
+
   - title: "Earth Embeddings: Toward artificial intelligence-centric representations of our planet"
     selected: true
     authors: <b>Klemmer</b>, K., Rolf, E., Russwurm, M., Camps-Valls, G., Czerkawski, M., Ermon, S., Francis, A., Jacobs, N., Kerner, H., Mackey, L., Mai, G., Mac Aodha, O., Reichstein, M., Robinson, C., Rolnick, D., Shelhamer, E., Sitzmann, V., Tuia, D., Zhu X. 

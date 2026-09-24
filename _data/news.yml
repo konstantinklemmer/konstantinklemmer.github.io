@@ -1,5 +1,9 @@
 items:
 
+  - date: "24/09/2026"
+    text: >-
+      New <a href="https://arxiv.org/abs/2609.25454">preprint</a> out introducing MIND, a geographic implicit neural representation with adjustable spatial scale, distilled from AlphaEarth, Climplicit, GeoCLIP and SINR. Check out the <a href="https://research.taylorgeospatial.org/mind/">project page</a>!
+
   - date: "04/08/2026"
     text: >-
       Our <a href="https://ieeexplore.ieee.org/document/11636001">perspective paper on Earth embeddings</a> has been published in IEEE GRSM and is fully open-access.
