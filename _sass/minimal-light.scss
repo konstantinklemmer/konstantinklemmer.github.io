@@ -645,3 +645,92 @@ letter-spacing: 0.3px;
 .hiring-box .email-inline strong {
 font-weight: 600;
 }
+
+/* Top navigation bar */
+html {
+  scroll-behavior: smooth;
+}
+
+[id] {
+  scroll-margin-top: 3.5em;
+}
+
+.top-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  background-color: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.top-nav-inner {
+  width: 650px;
+  margin: 0 auto;
+  padding: 0 0 0 310px;
+  display: flex;
+  gap: 28px;
+  height: 3em;
+  align-items: center;
+}
+
+.top-nav a {
+  color: #043361;
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+}
+
+.top-nav a:hover {
+  color: #39c;
+}
+
+header, section {
+  padding-top: 5.5em;
+}
+
+@media (prefers-color-scheme: dark) {
+  .top-nav {
+    background-color: rgba(32, 33, 43, 0.92);
+    border-bottom-color: #3a3b47;
+  }
+
+  .top-nav a {
+    color: rgb(62, 183, 240);
+  }
+
+  .top-nav a:hover {
+    color: #dadbdf;
+  }
+}
+
+@media print, screen and (max-width: 960px) {
+  body {
+    padding-top: calc(3em + 15px);
+  }
+
+  header, section {
+    padding-top: 0;
+  }
+
+  .top-nav-inner {
+    width: auto;
+    padding: 0 15px;
+    justify-content: center;
+  }
+}
+
+@media print {
+  .top-nav {
+    display: none;
+  }
+}
+
+/* Subsection headings (e.g. Students & Mentees) */
+h3.subsection {
+  font-size: 1.2rem;
+  margin: 24px 0 8px;
+}
