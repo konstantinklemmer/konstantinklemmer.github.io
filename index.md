@@ -40,6 +40,6 @@ For a recent talk about my work, check the video (MIT LIDS Seminar 2025) below:
 
 {% include_relative _includes/students.md %}
 
-{% include_relative _includes/contact.md %}
-
 {% include_relative _includes/bio.md %}
+
+{% include_relative _includes/contact.md %}

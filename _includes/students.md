@@ -9,6 +9,6 @@
 
 <h3 class="subsection">Other students & mentees</h3>
 
-<strong>David Mikisch</strong>, Postgraduate student, TU Berlin & Mila <br/>
+<strong>David Mickisch</strong>, Postgraduate student, TU Berlin & Mila <i>(now PhD student at University of Jena, Germany)</i> <br/>
 <strong>Natha Safir</strong>, Undergraduate student, University of Georgia <i>(now SWE at Google)</i> <br/>
 <strong>Gyri Reiersen</strong>, Masters student, Technical University of Munich <i>(now co-founder at <a href='https://tanso.io/en'>Tanso</a>)</i>
