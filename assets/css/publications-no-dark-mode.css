@@ -74,11 +74,12 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
 
-/* --- Affiliation logos (header) --- */
-.affiliation-logos { display: flex; flex-wrap: nowrap; align-items: center; justify-content: center; gap: 8px; margin: 14px 0 6px; }
-.affiliation-logos .logo-chip { display: inline-flex; align-items: center; justify-content: center; background: #ffffff; padding: 6px 9px; border-radius: 9px; border: 1px solid rgba(0,0,0,0.07); box-shadow: 0 1px 4px rgba(0,0,0,0.12); transition: transform .15s ease, box-shadow .15s ease; min-width: 0; flex: 0 1 auto; }
-.affiliation-logos .logo-chip:hover { transform: translateY(-1px); box-shadow: 0 3px 10px rgba(0,0,0,0.20); text-decoration: none; }
-.affiliation-logos .logo-chip img { height: 26px; width: auto; max-width: 100%; display: block; }
+/* --- Affiliation logos (inline with role lines) --- */
+/* The logo is painted through a CSS mask so it takes the theme's accent colour; the hidden <img> only sizes the box. */
+.role-line { display: inline-flex; align-items: center; gap: 9px; line-height: 1.9; }
+.role-logo { display: inline-block; background-color: #043361; -webkit-mask: var(--logo) center / contain no-repeat; mask: var(--logo) center / contain no-repeat; transition: opacity .15s ease; }
+.role-logo img { display: block; height: 15px; width: auto; visibility: hidden; }
+a:hover .role-logo { opacity: .7; }
 
 /* --- Responsive video embed --- */
 .video-wrap { position: relative; width: 100%; max-width: 560px; aspect-ratio: 16 / 9; margin: 18px 0; border-radius: 12px; overflow: hidden; background: #000; box-shadow: 0 4px 16px rgba(0,0,0,0.18); }

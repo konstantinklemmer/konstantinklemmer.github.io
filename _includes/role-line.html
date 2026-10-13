@@ -1,0 +1,6 @@
+{% comment %}
+  One sidebar role line. With a logo, the institution name is replaced by its logo (see .role-logo in publications.css).
+  Params: label (full text, e.g. "Assistant Professor, UCL"), role, logo, link.
+{% endcomment %}
+{% if include.logo %}{% capture line %}<span class="role-line"><autocolor>{{ include.role }}</autocolor><span class="role-logo" style="--logo: url('{{ include.logo | relative_url }}')"><img src="{{ include.logo | relative_url }}" alt="" /></span></span>{% endcapture %}{% else %}{% capture line %}<autocolor>{{ include.label }}</autocolor>{% endcapture %}{% endif %}
+{% if include.link %}<a href="{{ include.link }}" target="_blank" rel="noopener" aria-label="{{ include.label }}">{{ line }}</a>{% else %}<span aria-label="{{ include.label }}">{{ line }}</span>{% endif %}
