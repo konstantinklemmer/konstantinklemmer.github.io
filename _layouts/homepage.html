@@ -61,26 +61,19 @@
 
         {% if site.position %}
         <position style="font-size:1.10rem;">
-          {% if site.position_link %}<a href="{{ site.position_link }}" target="_blank" rel="noopener"><autocolor>{{ site.position }}</autocolor></a>{% else %}{{ site.position }}{% endif %}
+          {% include role-line.html label=site.position role=site.position_role logo=site.position_logo link=site.position_link %}
         </position>
         <br>
         {% endif %}
         {% if site.affiliation %}
-        {% if site.affiliation_link %}<a href="{{ site.affiliation_link }}" target="_blank" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>{% else %}{{ site.affiliation }}{% endif %}
+        <position style="font-size:1.10rem;">
+          {% include role-line.html label=site.affiliation role=site.affiliation_role logo=site.affiliation_logo link=site.affiliation_link %}
+        </position>
         <br>
         {% endif %}
         {% if site.email %}
         <email>{{ site.email }}</email>
         {% endif %}
-
-        <div class="affiliation-logos">
-          <a href="https://www.ucl.ac.uk/" target="_blank" rel="noopener" class="logo-chip" aria-label="UCL">
-            <img src="./assets/img/logo/ucl.svg" alt="UCL" />
-          </a>
-          <a href="https://lgnd.io/" target="_blank" rel="noopener" class="logo-chip" aria-label="LGND AI">
-            <img src="./assets/img/logo/lgnd.png" alt="LGND AI" />
-          </a>
-        </div>
 
         <br>
         <div class="social-icons">
