@@ -4,8 +4,8 @@
 
 <h3 class="subsection">PhD students</h3>
 
-<strong>Haoran Zhang</strong> <i>(co-advised w/ James Haworth)</i> <br/>
-<strong><a href="https://scholar.google.com/citations?user=si9Lo8wAAAAJ&hl=en&oi=ao">Zhicheng Deng</a></strong> <i>(co-advised w/ Tao Cheng)</i>
+<strong>Haoran Zhang</strong> <br/>
+<strong><a href="https://don392.github.io/">Zhicheng Deng</a></strong> <i>(co-advised w/ Tao Cheng)</i>
 
 <h3 class="subsection">Other students & mentees</h3>
 
