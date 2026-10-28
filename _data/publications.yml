@@ -5,6 +5,7 @@ main:
     conference_short: Preprint
     conference: Preprint, 2026.
     pdf: https://arxiv.org/abs/2610.32894
+    code: https://github.com/eleannavali/LoCA
     #bibtex: TODO
     image: ./assets/img/pub/arxiv26f.png
 
