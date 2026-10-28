@@ -1,5 +1,13 @@
 main:
 
+  - title: "LoCA: Enabling Multi-Modality in Geospatial Location Encoders"
+    authors: Koromilas, P., Vali, E., Antonopoulos, D., Saka, E., Christofis, D., Bountos, N. I., <b>Klemmer, K.</b>, Papoutsis, I., Panagakis, Y., Nicolaou, M. A.
+    conference_short: Preprint
+    conference: Preprint, 2026.
+    pdf: https://arxiv.org/abs/2610.32894
+    #bibtex: TODO
+    image: ./assets/img/pub/arxiv26f.png
+
   - title: "MIND the Gap: A Geographic Implicit Neural Representation with Adjustable Spatial Scale"
     authors: Corley, I., Rao, A., Rolf, E., <b>Klemmer, K.</b>, Shelhamer, E., Lehmann, N., Rußwurm, M., Mai, G., Jacobs, N., Kerner, H.
     conference_short: Preprint

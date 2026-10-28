@@ -1,5 +1,9 @@
 items:
 
+  - date: "23/10/2026"
+    text: >-
+      New <a href="https://arxiv.org/abs/2610.32894">preprint</a> out introducing LoCA, a two-stage approach that brings multi-modality (Sentinel-1, Sentinel-2 and tabular metadata) to geospatial location encoders.
+
   - date: "24/09/2026"
     text: >-
       New <a href="https://arxiv.org/abs/2609.25454">preprint</a> out introducing MIND, a geographic implicit neural representation with adjustable spatial scale, distilled from AlphaEarth, Climplicit, GeoCLIP and SINR. Check out the <a href="https://research.taylorgeospatial.org/mind/">project page</a>!
